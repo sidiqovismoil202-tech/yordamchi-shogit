@@ -1,0 +1,6 @@
+{
+  "name": "Chevarxona - Ishchilar Hisobi",
+  "description": "Tikuvchilik sexi uchun ishchilar hisobi, davomat, bajarilgan ishlar, avans va oylik maosh hisob-kitob tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
